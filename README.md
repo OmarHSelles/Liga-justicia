@@ -2,4 +2,4 @@
 
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
-###nuevo redme actualizado
+###nuevo redme actualizado desde mi repositorio local
